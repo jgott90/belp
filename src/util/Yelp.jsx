@@ -55,12 +55,14 @@ class Yelp extends Component {
         var { isLoaded, items } = this.state;
 
         if (!isLoaded) {
-            return <div > Loading... < /div>
+            return (
+                <div > Loading...</div>
+            )
+
         } else {
-            return ( <
-                div className = "App" >
-                <
-                /div>
+            return (
+                <div className="App" >
+                </div>
             );
         }
     }
