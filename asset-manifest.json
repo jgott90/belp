@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/belp/static/css/main.fe3cd059.chunk.css",
+    "main.js": "/belp/static/js/main.0bb871a5.chunk.js",
+    "main.js.map": "/belp/static/js/main.0bb871a5.chunk.js.map",
+    "runtime-main.js": "/belp/static/js/runtime-main.92ba388f.js",
+    "runtime-main.js.map": "/belp/static/js/runtime-main.92ba388f.js.map",
+    "static/css/2.b9b2dd63.chunk.css": "/belp/static/css/2.b9b2dd63.chunk.css",
+    "static/js/2.69b9775e.chunk.js": "/belp/static/js/2.69b9775e.chunk.js",
+    "static/js/2.69b9775e.chunk.js.map": "/belp/static/js/2.69b9775e.chunk.js.map",
+    "index.html": "/belp/index.html",
+    "precache-manifest.c3b5205736650df8c84437fbeaf78e10.js": "/belp/precache-manifest.c3b5205736650df8c84437fbeaf78e10.js",
+    "service-worker.js": "/belp/service-worker.js",
+    "static/css/2.b9b2dd63.chunk.css.map": "/belp/static/css/2.b9b2dd63.chunk.css.map",
+    "static/css/main.fe3cd059.chunk.css.map": "/belp/static/css/main.fe3cd059.chunk.css.map",
+    "static/js/2.69b9775e.chunk.js.LICENSE.txt": "/belp/static/js/2.69b9775e.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/belp/static/media/logo.d5c09c51.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92ba388f.js",
+    "static/css/2.b9b2dd63.chunk.css",
+    "static/js/2.69b9775e.chunk.js",
+    "static/css/main.fe3cd059.chunk.css",
+    "static/js/main.0bb871a5.chunk.js"
+  ]
+}
